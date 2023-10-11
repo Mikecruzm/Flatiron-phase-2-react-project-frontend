@@ -3,11 +3,18 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
+// main components
+// header component
+import Header from './components/Header'
+// main component
+// footer component
+
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
+      <Header />
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
