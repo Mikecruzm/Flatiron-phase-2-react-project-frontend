@@ -3,4 +3,24 @@
 
 # A To Do List
 
-the project is a to do list
+the project is a to do list. The project will help users create a to do list, so they can mark down the required things to do. For example a grocery list, a receipe, 
+
+
+# Installation 
+
+To install, you need to type in the terminal: npx create-react-app 
+In order to link the React
+Then type: cd todo-react
+
+
+# Requirements 
+Link React-app or vite into the terminal in vscode
+
+
+## Troubleshooting 
+
+
+# FAQ 
+
+If you have any questions please let me, in the FAQ
+
