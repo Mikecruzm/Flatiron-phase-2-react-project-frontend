@@ -29,7 +29,7 @@ Link React-app or vite into the terminal in vscode.
 
 # How to run?
 
-
+To run the application
 
 # FAQ 
 
