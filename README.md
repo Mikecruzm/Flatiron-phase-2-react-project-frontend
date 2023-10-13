@@ -31,9 +31,6 @@ Link React-app or vite into the terminal in vscode
 
 
 
-#
-
-
 # FAQ 
 
 If you have any questions please let me, in the FAQ.
