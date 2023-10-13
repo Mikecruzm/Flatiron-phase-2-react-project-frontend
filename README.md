@@ -25,7 +25,7 @@ Then type: cd todo-react
 
 
 # Requirements 
-Link React-app or vite into the terminal in vscode
+Link React-app or vite into the terminal in vscode.
 
 # How to run?
 
