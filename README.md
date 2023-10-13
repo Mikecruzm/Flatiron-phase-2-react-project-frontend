@@ -39,4 +39,8 @@ If you have any questions please let me, in the FAQ.
 
 * Only works on chrome or safari for Mac users.
 
-# 
+# Contributing 
+
+* Any suggestions are welcomed
+
+1. Fork the repo on Github
