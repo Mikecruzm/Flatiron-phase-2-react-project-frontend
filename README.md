@@ -3,7 +3,7 @@
 
 # A To Do List
 
-the project is a to do list. The project will help users create a to do list, so they can mark down the required things to do. For example a grocery list, a receipe, 
+the project is a to do list. The project will help users create a to do list, so they can mark down the required things to do. For example a grocery list, a receipe. It is an essential tho those that forget and dont want to write down a list physically.
 
 ## Why use it?
 
