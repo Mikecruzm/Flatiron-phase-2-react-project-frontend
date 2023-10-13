@@ -16,6 +16,7 @@ the project is a to do list. The project will help users create a to do list, so
 * React
 * Vite
 
+
 # Installation 
 
 To install, you need to type in the terminal: npx create-react-app 
