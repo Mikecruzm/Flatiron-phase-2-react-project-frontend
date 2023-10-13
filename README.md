@@ -45,3 +45,4 @@ If you have any questions please let me, in the FAQ.
 
 1. Fork the repo on Github.
 2. Clone the project into Terminal.
+3. Commit the changes to the development branch.
