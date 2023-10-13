@@ -40,4 +40,4 @@ If you have any questions please let me, in the FAQ
 
 #  Issues 
 
-* Only works on chrome or safari for Mac users
+* Only works on chrome or safari for Mac users.
