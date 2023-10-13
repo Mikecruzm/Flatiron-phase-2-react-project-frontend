@@ -9,8 +9,12 @@ the project is a to do list. The project will help users create a to do list, so
 
 * to have a list of things that must be completed
 
-## 
+## Built with
 
+* Html
+* javascript
+* React
+* Vite
 
 # Installation 
 
