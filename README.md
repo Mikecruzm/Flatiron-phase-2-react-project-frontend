@@ -43,4 +43,5 @@ If you have any questions please let me, in the FAQ.
 
 * Any suggestions are welcomed
 
-1. Fork the repo on Github
+1. Fork the repo on Github.
+2. Clone the project into Terminal.
